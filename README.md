@@ -106,7 +106,7 @@ Extracted key web-features such as:
 ## 🚀 How to Run the Project  
 
 1. Clone the repo  
-git clone https://github.com/satyamunje/
+git clone https://github.com/satyamunje/Intelligent System to Detect Phishing Domains
 
 markdown
 Copy code
